@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc2501dc.css",
+    "main.js": "/static/js/main.dd71d2e3.js",
+    "static/js/787.f74d18b9.chunk.js": "/static/js/787.f74d18b9.chunk.js",
+    "static/media/me_me-about.png": "/static/media/me_me-about.5995800ae7c66337f270.png",
+    "static/media/Resume_Ady Daniel Gilbert Aruan.pdf": "/static/media/Resume_Ady Daniel Gilbert Aruan.0f538852f6a9295c164e.pdf",
+    "static/media/adyaruan.png": "/static/media/adyaruan.09af72b9674b93452253.png",
+    "static/media/store.png": "/static/media/store.b539634cad0336c843e9.png",
+    "static/media/her.png": "/static/media/her.e74da78c8537b0f0a1d0.png",
+    "static/media/music player.png": "/static/media/music player.15bdba505523d2acc5fb.png",
+    "static/media/join.png": "/static/media/join.14bb15e09af58f22647a.png",
+    "static/media/happyfresh.png": "/static/media/happyfresh.4964e92ffeb8d8261e92.png",
+    "static/media/samuraikura.png": "/static/media/samuraikura.bb0da4f00ec013265604.png",
+    "index.html": "/index.html",
+    "main.cc2501dc.css.map": "/static/css/main.cc2501dc.css.map",
+    "main.dd71d2e3.js.map": "/static/js/main.dd71d2e3.js.map",
+    "787.f74d18b9.chunk.js.map": "/static/js/787.f74d18b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc2501dc.css",
+    "static/js/main.dd71d2e3.js"
+  ]
+}
