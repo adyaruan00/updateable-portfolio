@@ -1,8 +1,6 @@
 import React from 'react'
 import './footer.css'
-import {BsFacebook} from 'react-icons/bs'
-import {RiInstagramFill} from 'react-icons/ri'
-import {AiFillBehanceSquare} from 'react-icons/ai'
+
 
 const Footer = () => {
   return (
