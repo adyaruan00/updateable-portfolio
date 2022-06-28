@@ -10,7 +10,7 @@ const Experience = () => {
 
       <div className='container experience__container'>
         <div className='experience__frontend'>
-          <h3>Frontend Experience</h3>
+          <h3>WebDev Experience</h3>
           <div className='experience__content'>
             <article className='experience__details'>
               <MdVerified className='experience__details-icon' />
@@ -68,19 +68,10 @@ const Experience = () => {
               </div>
             </article>
             
-          </div>
-        </div>
-  
-
-          {/* END OF Frontend */}
-        
-        <div className='experience__backend'>
-        <h3>Backend Experience</h3>
-          <div className='experience__content'>
             <article className='experience__details'>
               <MdVerified className='experience__details-icon'/>
               <div>
-              <h4>Node JS</h4>
+              <h4>NodeJS</h4>
               <small className='text-light'>Beginner</small>
               </div>
             </article>
@@ -88,8 +79,8 @@ const Experience = () => {
             <article className='experience__details'>
               <MdVerified className='experience__details-icon'/>
               <div>
-              <h4>MySQL</h4>
-              <small className='text-light'>Experience</small>
+                <h4>MySQL</h4>
+                <small className='text-light'>Experience</small>
               </div>
             </article>
 
@@ -112,14 +103,6 @@ const Experience = () => {
             <article className='experience__details'>
               <MdVerified className='experience__details-icon'/>
               <div>
-              <h4>Python</h4>
-              <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <MdVerified className='experience__details-icon'/>
-              <div>
               <h4>Docker</h4>
               <small className='text-light'>Beginner</small>
               </div>
@@ -132,6 +115,121 @@ const Experience = () => {
               <small className='text-light'>Beginner</small>
               </div>
             </article>
+
+          </div>
+        </div>
+  
+
+          {/* END OF Frontend */}
+        
+        <div className='experience__backend'>
+        <h3>Design Experience</h3>
+          <div className='experience__content'>
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Figma</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Adobe Photoshop</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Adobe Illustrator</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Adobe InDesign</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Invision</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Web Design</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Mobile Design</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>User Research</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Prototyping</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Wireframng</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>User Interface</h4>
+              <small className='text-light'>Experience</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>User Experience</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <MdVerified className='experience__details-icon'/>
+              <div>
+              <h4>Graphic Design</h4>
+              <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            
 
         </div>
       </div>
